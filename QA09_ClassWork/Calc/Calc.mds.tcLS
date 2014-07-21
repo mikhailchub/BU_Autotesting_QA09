@@ -20,18 +20,17 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{0ab522b3-f33d-4aaa-a60f-556a5d61ed9f}">
-				<Prp name="relpath" type="S" value="Notepad\Notepad.mds.tcLS"/>
-			</Node>
-			<Node name="{0e01fc8a-265b-4bda-a5e1-61e0aebe5b6c}">
-				<Prp name="relpath" type="S" value="Calc\Calc.mds.tcLS"/>
+			<Node name="{5abba406-9d33-4c20-9a08-e4d5dac0ba48}">
+				<Node name="{3e0ddbfb-c33f-4788-9f9d-901e610cf5bb}">
+					<Prp name="filepath" type="S" value="C:\WINDOWS\system32\"/>
+				</Node>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{46ED6585-CFCE-4E24-9B5B-F3B256983EA5}"/>
+				<Prp name="key" type="S" value="{D909CB37-122A-4B86-A353-B3F280A24AC1}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
 		</Node>
-		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
 	</Node>
 </Nodes>

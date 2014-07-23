@@ -20,21 +20,17 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{0ab522b3-f33d-4aaa-a60f-556a5d61ed9f}">
-				<Prp name="relpath" type="S" value="Notepad\Notepad.mds.tcLS"/>
-			</Node>
-			<Node name="{0e01fc8a-265b-4bda-a5e1-61e0aebe5b6c}">
-				<Prp name="relpath" type="S" value="Calc\Calc.mds.tcLS"/>
-			</Node>
-			<Node name="{c328fb59-98b0-4823-8296-e065eb4145d4}">
-				<Prp name="relpath" type="S" value="Knight\Knight.mds.tcLS"/>
+			<Node name="{a563df39-7f04-4327-9102-b002bf880cc2}">
+				<Node name="{fedc78c4-619a-4b20-9d67-467ec19225f5}">
+					<Prp name="filepath" type="S" value="C:\Knight\"/>
+				</Node>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{46ED6585-CFCE-4E24-9B5B-F3B256983EA5}"/>
+				<Prp name="key" type="S" value="{BDEB87CB-74EF-495C-B17C-A6655676CCFE}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
 		</Node>
-		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
 	</Node>
 </Nodes>
